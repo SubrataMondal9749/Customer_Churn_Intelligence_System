@@ -1,13 +1,13 @@
-# 📊 Customer Churn Intelligence System
+# Customer Churn Intelligence System
 
-## 🚀 Overview
+## Overview
 The **Customer Churn Intelligence System** is an AI-powered solution designed to help telecom businesses predict customer churn and take proactive retention actions.
 
 The system analyzes customer data—including demographics, service usage, billing patterns, and support interactions—to identify customers who are likely to leave.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Predict customer churn using machine learning models  
 - Assign churn probability scores to each customer  
 - Segment customers into **Low, Medium, and High-risk categories**  
@@ -16,7 +16,7 @@ The system analyzes customer data—including demographics, service usage, billi
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Programming Language:** Python  
 - **Data Processing:** Pandas, NumPy  
 - **Machine Learning:** Scikit-learn  
@@ -24,14 +24,14 @@ The system analyzes customer data—including demographics, service usage, billi
 
 ---
 
-## 🤖 Models Used
+## Models Used
 - Logistic Regression  
 - Decision Tree  
 - Random Forest *(Final Selected Model)*  
 
 ---
 
-## 📈 Evaluation Metrics
+## Evaluation Metrics
 - Confusion Matrix  
 - F1-Score *(Primary metric due to class imbalance)*  
 - 5-Fold Cross-Validation  
@@ -46,7 +46,7 @@ The system analyzes customer data—including demographics, service usage, billi
 
 ---
 
-## 🎯 Retention Strategies
+## Retention Strategies : 
 
 ### 🔴 High-Risk Customers
 - Offer targeted discounts and retention deals  
